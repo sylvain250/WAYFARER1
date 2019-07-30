@@ -1,5 +1,6 @@
 # WAYFARER1
-ANDELA CHALLENGE ONE
+
+THE USER INTERFACE
 
 
 this link will take you to the home page :https://sylvain250.github.io/WAYFARER1/HTML/index.html
